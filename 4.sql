@@ -1,0 +1,1 @@
+select * from simple_books where author = 'Margaret Atwood';

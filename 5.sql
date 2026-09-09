@@ -1,0 +1,1 @@
+select * from fruit_stand where item = 'apple' or item = 'orange';
