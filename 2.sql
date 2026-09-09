@@ -1,0 +1,1 @@
+select * from simple_authors where name = 'Margaret Atwood' OR name = 'J.R.R. Tolkien'; 
