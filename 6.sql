@@ -1,1 +1,1 @@
-select * from simple_authors where birth between '1920-01-01' and '1940-12-31';git 
+select * from simple_authors where birth between '1920-01-01' and '1940-12-31';
